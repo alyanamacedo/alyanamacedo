@@ -9,7 +9,7 @@ Passionate about areas that involve arts, logic and technology since always, I h
 - 👨🏻‍💻 Experience in analysis and development of systems, with emphasis on project management; business analysis; innovation and development of technology solutions; team training.
 _________________________
 ### Technologies
-<div style="display: flex; justify-content: center;">
+<div align="center" style="display: inline_block;">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/null/html-5--v1.png" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/null/css3.png" alt="css3" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/null/javascript--v1.png" alt="javascript" width="40" height="40"/></a> 
@@ -23,7 +23,7 @@ _________________________
 </div>
 
 ### Contact me
-<div align="center" style="display: inline_block"> 
+<div align="center" style="display: inline_block;"> 
   <a href="https://www.instagram.com/alyanamacedo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:alyanamacedo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alyanamacedo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

@@ -9,7 +9,7 @@ Passionate about areas that involve arts, logic and technology since always, I h
 - 👨🏻‍💻 Experience in analysis and development of systems, with emphasis on project management; business analysis; innovation and development of technology solutions; team training.
 _________________________
 ### Technologies
-<div style="display: inline_block; text-align: center;">
+<div style="display: flex; justify-content: center;">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/null/html-5--v1.png" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/null/css3.png" alt="css3" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/null/javascript--v1.png" alt="javascript" width="40" height="40"/></a> 

@@ -13,7 +13,7 @@ _________________________
 <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer" title="HTML5"> <img src="https://img.icons8.com/color/48/null/html-5--v1.png" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noopener noreferrer" title="CSS3"> <img src="https://img.icons8.com/fluency/48/null/css3.png" alt="css3" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer" title="JavaScript"> <img src="https://img.icons8.com/color/48/null/javascript--v1.png" alt="javascript" width="40" height="40"/></a> 
-<a href="https://react.dev/" target="_blank" rel="noopener noreferrer" title="ReactJS"> <img src="https://img.icons8.com/officel/16/null/react.png" alt="reactjs" width="40" height="40"/> </a>
+<a href="https://react.dev/" target="_blank" rel="noopener noreferrer" title="ReactJS"> <img src="https://img.icons8.com/officel/48/null/react.png" alt="reactjs" width="40" height="40"/> </a>
 <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer" title="NodeJS"> <img src="https://img.icons8.com/fluency/48/null/node-js.png" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/unity" target="_blank" rel="noopener noreferrer" title="Visual Studio Code"><img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png" alt="visualstudiocode" width="40" height="40"/></a>
 <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noopener noreferrer" title="C#"><img src="https://img.icons8.com/color/48/null/c-sharp-logo-2.png" alt="csharp" width="40" height="40"/></a>

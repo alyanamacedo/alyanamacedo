@@ -1,7 +1,7 @@
 ## Alyana Macêdo
 Passionate about areas that involve arts, logic and technology since always, I have entered several areas throughout my career. I started working as a teenager as a teacher of fine arts and mathematics, then as a developer of systems and interactive media, as a business analyst in the air sector for multinationals, as an audiovisual producer for film and communication companies, coming today as a teacher, game developer and gamification.
 
-- 🎓 Computer teacher, with disciplines such as Web Design, IHC, Game Development, Computer Graphics, and others.
+- 🎓 Computer teacher, with disciplines such as Web Design, Human–computer interaction, Game Development, Computer Graphics, and others.
 - 👨🏻‍💻 Front-end developer (HTML5, CSS3, JavaScript). Git/Github, NodeJS, ReactJS.
 - 🕹 Independent game developer. Tools: Construct 3 and Untiy. C# language.
 - 🕹 Gamification in education.
